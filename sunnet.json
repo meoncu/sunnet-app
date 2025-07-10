@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "Ad": "Her işe besmele ile başlardı. Hayırlı işlerde sağını, diğer işlerde solunu kullanırdı."
+    "ad": "Her işe besmele ile başlardı. Hayırlı işlerde sağını, diğer işlerde solunu kullanırdı."
   },
   {
     "id": 2,
-    "Ad": "Yemekten önce ve sonra ellerini yıkardı."
+    "ad": "Yemekten önce ve sonra ellerini yıkardı."
   }
 ]
