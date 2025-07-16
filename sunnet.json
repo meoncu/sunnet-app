@@ -1,4 +1,7 @@
-[
+{
+  "last_updated": "2025-07-15T10:00:00Z",
+  "veriler": [
+
     {
         "id": "1",
         "ad": "Abdeste Besemele ile başlamak sünnettir.",
@@ -85,3 +88,4 @@
         "konu": "Abdest"
     }
 ]
+}
