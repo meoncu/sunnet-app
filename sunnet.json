@@ -2,90 +2,270 @@
   "last_updated": "2025-07-15T11:00:00Z",
   "veriler": [
 
-    {
-        "id": "1",
-        "ad": "Abdeste Besemele ile başlamak sünnettir.",
-        "konu": "Abdest"
-    },
-    {
-        "id": "2",
-        "ad": "Abdestte yıkanılması farz olan yerlerin iki ve üçüncü defa yıkanması ağza ve burna üçer defa yıkanması ittifakla sünnettir.",
-        "konu": "Abdest"
-    },
-    {
-        "id": "3",
-        "ad": "Abdest alındıktan sonra iki rekat abdest şükür namazı kılmak.",
-        "konu": "Abdest"
-    },
-    {
-        "id": "4",
-        "ad": "Oruçlu olmadığında istinşakı mübalağı yapmak sünnettir.",
-        "konu": "Abdest"
-    },
-    {
-        "id": "5",
-        "ad": "Parmakları hilallemek.",
-        "konu": "Abdest"
-    },
-    {
-        "id": "6",
-        "ad": "Başın tamamını mesh etmek sünnettir.",
-        "konu": "Abdest"
-    },
-    {
-        "id": "7",
-        "ad": "Abdest alırken kulakların iç ve dışını mesh etmek sünnettir.",
-        "konu": "Abdest"
-    },
-    {
-        "id": "8",
-        "ad": "Abdestte boynu mesh etmek sünnettir.",
-        "konu": "Abdest"
-    },
-    {
-        "id": "9",
-        "ad": "Abdest alırken favorilerle kulak arkası mesh etmek sünnettir.",
-        "konu": "Abdest"
-    },
-    {
-        "id": "10",
-        "ad": "Uykudan kalkıldığında elleri yıkama sünnettir.",
-        "konu": "Abdest"
-    },
-    {
-        "id": "11",
-        "ad": "Abdeste elleri yıkarken yüzük altına su ulaştırmakiçin yüzüğü hareket ettirmek.",
-        "konu": "Abdest"
-    },
-    {
-        "id": "12",
-        "ad": "Abdest alırken sakalları hilallemek",
-        "konu": "Abdest"
-    },
-    {
-        "id": "13",
-        "ad": "Her işe sağ taraftan başlamak.",
-        "konu": "Genel"
-    },
-    {
-        "id": "14",
-        "ad": "Abdest alırken parmak aralarını hilallemek",
-        "konu": "Abdest"
-    },
-    {
-        "id": "15",
-        "ad": "Cenaze taşıyanın abdest alması sünnettir.",
-        "konu": "Cenaze"
-    },
-    {
-        "id": "16",
-        "ad": "Her namaz vaktinde yeniden abdest almak",
-        "konu": "Abdest"
-    },
-    {
-        "id": "17",
-        "ad": "Yatmada önce abdest almak",
-        "konu": "Abdest"
-    }
+  {
+    "id": 1,
+    "ad": "Abdeste Besemele ile başlamak sünnettir.",
+    "konu": "Abdest"
+  },
+  {
+    "id": 2,
+    "ad": "Abdestte yıkanılması farz olan yerlerin iki ve üçüncü defa yıkanması ağza ve burna üçer defa yıkanması ittifakla sünnettir.",
+    "konu": "Abdest"
+  },
+  {
+    "id": 3,
+    "ad": "Abdest alındıktan sonra iki rekat abdest şükür namazı kılmak.",
+    "konu": "Abdest"
+  },
+  {
+    "id": 4,
+    "ad": "Oruçlu olmadığında istinşakı mübalağı yapmak sünnettir.",
+    "konu": "Abdest"
+  },
+  {
+    "id": 5,
+    "ad": "Parmakları hilallemek.",
+    "konu": "Abdest"
+  },
+  {
+    "id": 6,
+    "ad": "Başın tamamını mesh etmek sünnettir.",
+    "konu": "Abdest"
+  },
+  {
+    "id": 7,
+    "ad": "Abdest alırken kulakların iç ve dışını mesh etmek sünnettir.",
+    "konu": "Abdest"
+  },
+  {
+    "id": 8,
+    "ad": "Abdestte boynu mesh etmek sünnettir.",
+    "konu": "Abdest"
+  },
+  {
+    "id": 9,
+    "ad": "Abdest alırken favorilerle kulak arkası mesh etmek sünnettir.",
+    "konu": "Abdest"
+  },
+  {
+    "id": 10,
+    "ad": "Uykudan kalkıldığında elleri yıkama sünnettir.",
+    "konu": "Abdest"
+  },
+  {
+    "id": 11,
+    "ad": "Abdeste elleri yıkarken yüzük altına su ulaştırmakiçin yüzüğü hareket ettirmek.",
+    "konu": "Abdest"
+  },
+  {
+    "id": 12,
+    "ad": "Abdest alırken sakalları hilallemek",
+    "konu": "Abdest"
+  },
+  {
+    "id": 13,
+    "ad": "Her işe sağ taraftan başlamak.",
+    "konu": "Genel"
+  },
+  {
+    "id": 14,
+    "ad": "Abdest alırken parmak aralarını hilallemek",
+    "konu": "Abdest"
+  },
+  {
+    "id": 15,
+    "ad": "Cenaze taşıyanın abdest alması sünnettir.",
+    "konu": "Cenaze"
+  },
+  {
+    "id": 16,
+    "ad": "Her namaz vaktinde yeniden abdest almak",
+    "konu": "Abdest"
+  },
+  {
+    "id": 17,
+    "ad": "Yatmada önce abdest almak",
+    "konu": "Abdest"
+  },
+  {
+    "id": 18,
+    "ad": "Yolculukta eve gece girilmemesi",
+    "konu": "Yolculuk"
+  },
+  {
+    "id": 19,
+    "ad": "Merdiven kullanıldığında Allahuekber denmesi",
+    "konu": "Yolculuk"
+  },
+  {
+    "id": 20,
+    "ad": "Asansor ve araç  kullnıldığında binit duası",
+    "konu": "Yolculuk"
+  },
+  {
+    "id": 21,
+    "ad": "Evlere kapıdan girmek",
+    "konu": "Yolculuk"
+  },
+  {
+    "id": 22,
+    "ad": "Kapıyı çalarkan kaba davranmamak tırnakla çalmak",
+    "konu": "Yolculuk"
+  },
+  {
+    "id": 23,
+    "ad": "Kim o denildiğinde Benim denmemesi ismin söylenmesi",
+    "konu": "Yolculuk"
+  },
+  {
+    "id": 24,
+    "ad": "Boş ev dahi olsa selam verilmesi",
+    "konu": "Yolculuk"
+  },
+  {
+    "id": 25,
+    "ad": "Kapıyı çalan içeriyi görcek şekilde tam karşıda durmasın",
+    "konu": "Yolculuk"
+  },
+  {
+    "id": 26,
+    "ad": "Önce sol ayakkabı çıkarmak",
+    "konu": "Yolculuk"
+  },
+  {
+    "id": 27,
+    "ad": "İçeriye sağ ayakla girmek",
+    "konu": "Yolculuk"
+  },
+  {
+    "id": 28,
+    "ad": "İçeriye girerken Bismillah demek",
+    "konu": "Yolculuk"
+  },
+  {
+    "id": 29,
+    "ad": "Eve girerken selam vermek",
+    "konu": "Yolculuk"
+  },
+  {
+    "id": 30,
+    "ad": "Çocuklara da selam verilmeli",
+    "konu": "Yolculuk"
+  },
+  {
+    "id": 31,
+    "ad": "Eve girer girmez ağzı misvaklamak",
+    "konu": "Yolculuk"
+  },
+  {
+    "id": 32,
+    "ad": "Eve gelindiğinde çocukları öpmek",
+    "konu": "Yolculuk"
+  },
+  {
+    "id": 33,
+    "ad": "Yolculuk başlangıç ve bitiş evde gidiş ve dönüş namazı",
+    "konu": "Yolculuk"
+  },
+  {
+    "id": 34,
+    "ad": "Aç olan birinin arkadaşına ben açım demesi",
+    "konu": "Yemek"
+  },
+  {
+    "id": 35,
+    "ad": "Eşe yardımcı olmak",
+    "konu": "Yemek"
+  },
+  {
+    "id": 36,
+    "ad": "Davet edildiğinde açken iştahım yok denmemesi",
+    "konu": "Yemek"
+  },
+  {
+    "id": 37,
+    "ad": "Sofrada aza kanaat etmek",
+    "konu": "Yemek"
+  },
+  {
+    "id": 38,
+    "ad": "Yemeği sofrada yemek",
+    "konu": "Yemek"
+  },
+  {
+    "id": 39,
+    "ad": "İçko konan sofrada oturmamak",
+    "konu": "Yemek"
+  },
+  {
+    "id": 40,
+    "ad": "Sofraya dizleri dikip otırmak",
+    "konu": "Yemek"
+  },
+  {
+    "id": 41,
+    "ad": "Yan yatarak yemenin yasaklanması",
+    "konu": "Yemek"
+  },
+  {
+    "id": 42,
+    "ad": "Ayrı sofralar kurmamak",
+    "konu": "Yemek"
+  },
+  {
+    "id": 43,
+    "ad": "Yemeğe davet edildiğinde icabet edilmesi",
+    "konu": "Yemek"
+  },
+  {
+    "id": 44,
+    "ad": "Sofrada utananan birine ye denmesi",
+    "konu": "Yemek"
+  },
+  {
+    "id": 45,
+    "ad": "Evinin hizmetçisi ile birlikte yemenin tavsiye edilmesi",
+    "konu": "Yemek"
+  },
+  {
+    "id": 46,
+    "ad": "Yemeğe önce büyüklerin başlaması",
+    "konu": "Yemek"
+  },
+  {
+    "id": 47,
+    "ad": "Az yemek",
+    "konu": "Yemek"
+  },
+  {
+    "id": 48,
+    "ad": "Yemek yerken geğirmeyi gizlemek",
+    "konu": "Yemek"
+  },
+  {
+    "id": 49,
+    "ad": "Yemekten önce ve sonra ellerin yıkanması",
+    "konu": "Yemek"
+  },
+  {
+    "id": 50,
+    "ad": "Mideyi yemek su ve nefese tahsis etmek",
+    "konu": "Yemek"
+  },
+  {
+    "id": 51,
+    "ad": "Yemeğe başlarken bismillah demek",
+    "konu": "Yemek"
+  },
+  {
+    "id": 52,
+    "ad": "Yemeğe sinek düşürse iki kanadınıda batırın",
+    "konu": "Yemek"
+  },
+  {
+    "id": 53,
+    "ad": "Düşen lokmanın temizlenip tekrar yenmesi",
+    "konu": "Yemek"
+  }
 ]
 }
