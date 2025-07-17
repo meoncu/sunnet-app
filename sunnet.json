@@ -4,13 +4,13 @@
     "sunnetler": [
       {
         "id": 1,
-        "baslik": "Sabah Namazı Sünneti",
-        "aciklama": "Sabah namazının sünneti çok faziletlidir."
+        "ad": "Sabah Namazı Sünneti",
+        "konu": "Sabah namazının sünneti çok faziletlidir."
       },
       {
         "id": 2,
-        "baslik": "Cemaatle Kılmak",
-        "aciklama": "Namazları cemaatle kılmak sünnettir."
+        "ad": "Cemaatle Kılmak",
+        "konu": "Namazları cemaatle kılmak sünnettir."
       }
     ]
   },
@@ -19,13 +19,13 @@
     "sunnetler": [
       {
         "id": 3,
-        "baslik": "Sahur Yapmak",
-        "aciklama": "Sahur yapmak sünnettir."
+        "ad": "Sahur Yapmak",
+        "konu": "Sahur yapmak sünnettir."
       },
       {
         "id": 4,
-        "baslik": "İftarı Hurma ile Açmak",
-        "aciklama": "Peygamber Efendimiz iftarı hurma ile açmıştır."
+        "ad": "İftarı Hurma ile Açmak",
+        "konu": "Peygamber Efendimiz iftarı hurma ile açmıştır."
       }
     ]
   }
